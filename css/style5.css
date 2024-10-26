@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(48, 47, 47);
+}
+
+h1{
+    color: white;
+}
+.content .highlight{
+    color:red;
+}
+#footer {
+    color:gray
+}
